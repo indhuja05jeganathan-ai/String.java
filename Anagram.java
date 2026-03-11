@@ -1,4 +1,4 @@
-public class see {
+public class Anagram {
 //     public static void main(String[] args) {
 
 //         String st = "tea";
